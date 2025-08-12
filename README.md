@@ -21,8 +21,6 @@ What I'm currently learning: As a second-year software engineering student, I'm 
 
 Collaboration opportunities:  I'm always open to collaborating on open-source projects 🤝 or any other exciting projects that allow me to learn and grow.
 
-Pronouns: He/Him
-
 ⚡ Fun fact: I once tried to teach my cat how to code, but it just stared at me and blinked.
 
 Yeabtsega in downtime: ⚡ I enjoy playing video games in my free time. 🎮 plus am artistic sketcher.
