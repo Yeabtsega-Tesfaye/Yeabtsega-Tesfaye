@@ -17,7 +17,7 @@
 
 What I'm interested in: I'm passionate about coding 💻, math 🧮, and science 🧪. I love combining these interests to build amazing things in the world of software engineering.
 
-What I'm currently learning: As a second-year software engineering student, I'm constantly learning new things and honing my skills. 📚
+What I'm currently learning: As a 3rd year software engineering student, I'm constantly learning new things and honing my skills. 📚
 
 Collaboration opportunities:  I'm always open to collaborating on open-source projects 🤝 or any other exciting projects that allow me to learn and grow.
 
