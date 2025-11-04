@@ -52,10 +52,27 @@ John Johnson
 ---
 ## How to reach me: 
 
-Feel free to reach out to me at Yeabtsegayeab85@gmail.com. 📧
-
 <p align="center">
 <a href="https://www.linkedin.com/in/dev-yeabtsega?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Yeabtsega-Tesfaye"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://t.me/confidential_boy"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/ocean.gif" />
+  </picture>
+</div>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeabtsega-Tesfaye&show_icons=true&locale=en&layout=compact" alt="Yeabtsega-Tesfaye" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeabtsega-Tesfaye&show_icons=true&locale=en" alt="Yeabtsega-Tesfaye" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeabtsega-Tesfaye&" alt="Yeabtsega-Tesfaye" /></p>
