@@ -59,6 +59,8 @@ John Johnson
 </p>
 
 
+<!--
+
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/github-snake-dark.svg" />
@@ -76,3 +78,4 @@ John Johnson
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeabtsega-Tesfaye&show_icons=true&locale=en" alt="Yeabtsega-Tesfaye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeabtsega-Tesfaye&" alt="Yeabtsega-Tesfaye" /></p>
+-->
