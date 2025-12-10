@@ -65,8 +65,6 @@ John Johnson
 
 ![snake gif](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/github-contribution-grid-snake.svg)
 
-
-
 <!--
 
 <div style="text-align: center;">
