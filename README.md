@@ -27,7 +27,7 @@ Yeabtsega in downtime: ⚡ I enjoy playing video games in my free time. 🎮 plu
 
 ## 🏆 Achievements
 
-- 🥇 Scored 438 on the Ethiopian UEE(2nd batch) 3.9 GPA in Software Engineering
+- 🥇 Scored 438 on the EUEE(2nd batch) and 3.9 GPA in Software Engineering
 - 💻 Built projects: 50+ Modern and Cool Websites with the latest technologies
 
 ### ✍️Random Dev Quote
