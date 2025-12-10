@@ -30,10 +30,6 @@ Yeabtsega in downtime: ⚡ I enjoy playing video games in my free time. 🎮 plu
 
 John Johnson
 
-
-![Yeab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeabtsega-Tesfaye&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeabtsega-Tesfaye&layout=compact&theme=radical)
-
 ## 🚀 Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
