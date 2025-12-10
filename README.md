@@ -63,6 +63,9 @@ John Johnson
   <a href="https://t.me/confidential_boy"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
+![snake gif](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 
