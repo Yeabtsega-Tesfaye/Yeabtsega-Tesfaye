@@ -25,6 +25,11 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 Yeabtsega in downtime: ⚡ I enjoy playing video games in my free time. 🎮 plus am artistic sketcher.
 
+## 🏆 Achievements
+
+- 🥇 Scored 438 on the Ethiopian UEE(2nd batch) 3.9 GPA in Software Engineering
+- 💻 Built projects: 50+ Modern and Cool Websites with the latest technologies
+
 ### ✍️Random Dev Quote
 "First, solve the problem. Then, write the code."
 
