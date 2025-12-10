@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Yeabtsega-Tesfaye"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+yo+wassup!;This+is+my+Github+page;I'm+A+software+engineering+student;Passionate+Website+Developer"></a>
+  <a href="https://github.com/Yeabtsega-Tesfaye"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+yo+wassup!;This+is+my+Github+page;I'm+a+software+engineering+student;Passionate+Website+Developer"></a>
 </p>
 <div align="center">
 
@@ -23,7 +23,7 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ⚡ Fun fact: I once tried to teach my cat how to code, but it just stared at me and blinked.
 
-Yeabtsega in downtime: ⚡ I enjoy playing video games in my free time. 🎮 plus am artistic sketcher.
+⚡ I enjoy gaming and sketching during downtime.
 
 ## 🏆 Achievements
 
