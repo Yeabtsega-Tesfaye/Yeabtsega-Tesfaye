@@ -62,8 +62,11 @@ John Johnson
   <a href="https://yeab-tsega.netlify.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://t.me/confidential_boy"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Yeabtsega-Tesfaye&color=blue)
+
 ![GitHub followers](https://img.shields.io/github/followers/Yeabtsega-Tesfaye?label=Followers&style=flat)
+
 ![GitHub stars](https://img.shields.io/github/stars/Yeabtsega-Tesfaye?affiliations=OWNER&style=flat)
 
 ![Snake animation](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/snake.svg)
