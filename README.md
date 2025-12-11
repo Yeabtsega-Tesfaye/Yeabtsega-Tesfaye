@@ -7,10 +7,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 </h3>
 
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Yeabtsega-Tesfaye&color=blue)![GitHub followers](https://img.shields.io/github/followers/Yeabtsega-Tesfaye?label=Followers&style=flat)![GitHub stars](https://img.shields.io/github/stars/Yeabtsega-Tesfaye?affiliations=OWNER&style=flat)
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yeabtsega-Tesfaye&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Yeabtsega-Tesfaye?label=Followers&style=flat" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Yeabtsega-Tesfaye?affiliations=OWNER&style=flat" alt="GitHub Stars">
+</p>
 
 
 <p align="center">
