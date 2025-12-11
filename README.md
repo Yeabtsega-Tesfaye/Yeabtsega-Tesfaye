@@ -6,6 +6,13 @@
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 </h3>
+<p align=center>
+![Profile Views](https://komarev.com/ghpvc/?username=Yeabtsega-Tesfaye&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Yeabtsega-Tesfaye?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Yeabtsega-Tesfaye?affiliations=OWNER&style=flat)
+</p>
+
+![Snake animation](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/snake.svg)
 
 <p align="center">
   <a href="https://github.com/Yeabtsega-Tesfaye"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+yo+wassup!;This+is+my+Github+page;I'm+a+software+engineering+student;Passionate+Website+Developer"></a>
@@ -63,13 +70,7 @@ John Johnson
   <a href="https://t.me/confidential_boy"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yeabtsega-Tesfaye&color=blue)
 
-![GitHub followers](https://img.shields.io/github/followers/Yeabtsega-Tesfaye?label=Followers&style=flat)
-
-![GitHub stars](https://img.shields.io/github/stars/Yeabtsega-Tesfaye?affiliations=OWNER&style=flat)
-
-![Snake animation](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/snake.svg)
 
 <!--
 
