@@ -35,10 +35,10 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ## 🏆 Achievements
 
-Scored 438 on the EUEE(2nd batch) and 3.9 GPA in Software Engineering
-Built projects: 50+ Modern and Cool Websites with the latest technologies
+Scored 438 on the EUEE(2nd batch) and 3.9 GPA in Software Engineering <br>
+Built projects: 100+ Modern and Cool Websites with the latest technologies
 
-## ✍️Random Dev Quote
+## ✍️ Quote
 "First, solve the problem. Then, write the code."
 
 John Johnson
