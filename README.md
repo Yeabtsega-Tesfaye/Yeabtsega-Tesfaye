@@ -35,7 +35,7 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ## 🏆 Achievements
 
-Scored 438 on the EUEE(2nd batch) and 3.9 GPA in Software Engineering <br>
+Scored 438 on the EUEE(2nd batch🥲) and 3.9 GPA in Software Engineering <br>
 Built projects: 100+ Modern and Cool Websites with the latest technologies
 
 ## ✍️ Quote
