@@ -44,7 +44,7 @@ Built projects: 100+ Modern and Cool Websites with the latest technologies
 John Johnson
 
 <details>
-  <summary>## 🚀 Languages and Tools</summary>
+  ## <summary>🚀 Languages and Tools</summary>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,7 +71,7 @@ John Johnson
 ![Claude](https://img.shields.io/badge/Claude-CC9B6D?style=for-the-badge&logo=anthropic&logoColor=black)
 
 </details>
----
+
 ## How to reach me: 
 
 <p align="center">
