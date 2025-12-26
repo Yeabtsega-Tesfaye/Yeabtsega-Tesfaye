@@ -47,7 +47,7 @@ John Johnson
 
 
 <details>
-  ## <summary>🚀 Languages and Tools</summary>
+   <summary><strong>Everything I use</strong></summary>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
