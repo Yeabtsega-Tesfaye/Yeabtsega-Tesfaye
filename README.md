@@ -43,7 +43,8 @@ Built projects: 100+ Modern and Cool Websites with the latest technologies
 
 John Johnson
 
-## 🚀 Languages and Tools
+<details>
+  <summary>## 🚀 Languages and Tools</summary>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,6 +70,7 @@ John Johnson
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC9B6D?style=for-the-badge&logo=anthropic&logoColor=black)
 
+</details>
 ---
 ## How to reach me: 
 
@@ -79,40 +81,3 @@ John Johnson
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/snake.svg)
-
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <br>
-
-  <!-- GitHub Stats Section -->
-  <table>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-      </td>
-    </tr>
-  </table>
-       
-
-</details>
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/blob/output/ocean.gif" />
-  </picture>
-</div>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeabtsega-Tesfaye&show_icons=true&locale=en&layout=compact" alt="Yeabtsega-Tesfaye" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeabtsega-Tesfaye&show_icons=true&locale=en" alt="Yeabtsega-Tesfaye" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeabtsega-Tesfaye&" alt="Yeabtsega-Tesfaye" /></p>
