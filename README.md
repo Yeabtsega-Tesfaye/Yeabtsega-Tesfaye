@@ -80,7 +80,24 @@ John Johnson
 
 ![Snake animation](https://raw.githubusercontent.com/Yeabtsega-Tesfaye/Yeabtsega-Tesfaye/output/snake.svg)
 
-<!--
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  <br>
+
+  <!-- GitHub Stats Section -->
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+    </tr>
+  </table>
+       
+
+</details>
 
 <div style="text-align: center;">
   <picture>
@@ -99,4 +116,3 @@ John Johnson
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeabtsega-Tesfaye&show_icons=true&locale=en" alt="Yeabtsega-Tesfaye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yeabtsega-Tesfaye&" alt="Yeabtsega-Tesfaye" /></p>
--->
