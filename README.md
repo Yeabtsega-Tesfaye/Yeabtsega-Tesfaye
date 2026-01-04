@@ -45,10 +45,6 @@ John Johnson
 
  ## 🚀 Languages and Tools
 
-
-<details>
-   <summary><strong>Everything I use</strong></summary>
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -72,8 +68,6 @@ John Johnson
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC9B6D?style=for-the-badge&logo=anthropic&logoColor=black)
-
-</details>
 
 ## How to reach me: 
 
