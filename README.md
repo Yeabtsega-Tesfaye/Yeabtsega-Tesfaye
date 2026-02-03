@@ -35,8 +35,12 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ## 🏆 Achievements
 
-Scored 438 on the EUEE(2nd batch🥲) and 3.9 GPA in Software Engineering <br>
-Built projects: 100+ Modern and Cool Websites with the latest technologies
+## 🏆 Achievements
+
+Ranked in the **top 3.2% of candidates** in the EUEE.  
+Maintaining a **3.9 GPA** in Software Engineering.  
+Built **100+ modern, high-quality websites** using contemporary web technologies.
+
 
 ## ✍️ Quote
 "First, solve the problem. Then, write the code."
