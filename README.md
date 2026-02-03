@@ -35,8 +35,6 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ## 🏆 Achievements
 
-## 🏆 Achievements
-
 Ranked in the **top 3.2% of candidates** in the EUEE.  
 Maintaining a **3.9 GPA** in Software Engineering.  
 Built **100+ modern, high-quality websites** using contemporary web technologies.
