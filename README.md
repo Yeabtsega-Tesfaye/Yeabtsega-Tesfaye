@@ -23,6 +23,8 @@
 # 💫About Me :
 
 
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
+
 What I'm interested in: I'm passionate about coding 💻, math 🧮, and science 🧪. I love combining these interests to build amazing things in the world of software engineering.
 
 What I'm currently learning: As a 3rd year software engineering student, I'm constantly learning new things and honing my skills. 📚
