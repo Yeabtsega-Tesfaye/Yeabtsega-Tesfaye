@@ -34,19 +34,6 @@ Collaboration opportunities:  I'm always open to collaborating on open-source pr
 
 ⚡ I enjoy gaming and sketching during downtime.
 
-
-# 💫 About Me :
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20"/> What I'm interested in: I'm passionate about coding, math, and science.  
-
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="20"/> What I'm currently learning: As a 3rd year software engineering student, I'm constantly learning new things.  
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="20"/> Collaboration opportunities: Open to open-source and exciting projects.  
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="20"/> Fun fact: I once tried to teach my cat how to code 😭  
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20"/> I enjoy gaming and sketching during downtime.
-
 ## 🏆 Achievements
 
 Ranked in the **top 3.2% of candidates** in the EUEE.  
